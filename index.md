@@ -39,8 +39,10 @@ August 2017-September 2017
 
 Software testing in the IT Academy Stormnet
 
-Сертификат ["Основы C# с нуля"] (https://www.udemy.com/certificate/UC-W5U0VJ2F/)
+Сертификат ["Основы C# с нуля"](https://www.udemy.com/certificate/UC-W5U0VJ2F/)
+
 Сертификат ["C# Light - Программирование для начинающих"](https://www.udemy.com/certificate/UC-KRVJF4MQ/)
+
 [edit](https://github.com/kashkan10/kashkan10.github.io/edit/master/index.md)
 
 
