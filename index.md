@@ -33,9 +33,9 @@
 ## English
 Intermediate
 ## Education
->2013-2017
+2013-2017
 
->Belarusian State University, department of Mechanics and Mathematics, Bachelor’s degree in Web-programming and Internet Technologies.
+Belarusian State University, department of Mechanics and Mathematics, Bachelor’s degree in Web-programming and Internet Technologies.
 ## Additional Education
 August 2017-
 September 2017    
