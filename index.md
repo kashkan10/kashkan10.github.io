@@ -3,7 +3,7 @@ Phone number: +375291583489
 Date of birth: 3rd March 1996
 Email: a.kashkan10@gmail.com
 Skype: kashik560
-[Linkedin:](Artyom Kashkan)
+[Linkedin:](https://www.linkedin.com/in/artyom-kashkan-591489150/)
 Skills
 Fundamentals of client-server architecture
 Knowledge of methodologies of software development
