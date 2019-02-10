@@ -20,6 +20,7 @@
    - Unity 3D
    - Android SDK
    - CMS
+
 ## Personal skills
 - Critical thinking
 - Increased responsibility
