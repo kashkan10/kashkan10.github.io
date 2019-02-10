@@ -1,10 +1,5 @@
 # Artyom Kashkan
                                                                                                                
-#### Phone number: +375291583489
-#### Date of birth: 3rd March 1996
-#### Email: a.kashkan10@gmail.com
-#### Skype: kashik560
-#### Linkedin: [Artyom Kashkan](https://www.linkedin.com/in/artyom-kashkan-591489150/)
 ## Skills
 - Fundamentals of client-server architecture
 - Knowledge of methodologies of software development
@@ -44,13 +39,8 @@ August 2017-September 2017
 
 Software testing in the IT Academy Stormnet
 
-During the course I had practice with:
-- Jira
-- SQL
-- Functional web testing
-- Checklists creation
-- Test cases creation
-
+Сертификат ["Основы C# с нуля"] (https://www.udemy.com/certificate/UC-W5U0VJ2F/)
+Сертификат ["C# Light - Программирование для начинающих"](https://www.udemy.com/certificate/UC-KRVJF4MQ/)
 [edit](https://github.com/kashkan10/kashkan10.github.io/edit/master/index.md)
 
 
