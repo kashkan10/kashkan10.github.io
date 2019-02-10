@@ -1,5 +1,5 @@
 # Artyom Kashkan
-                                                                                                               
+I want to become a professional. My main hobby of all of my life is a football.                                                                                                             
 ## Skills
 - Fundamentals of client-server architecture
 - Knowledge of methodologies of software development
