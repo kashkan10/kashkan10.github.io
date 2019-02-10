@@ -4,32 +4,32 @@
 ### Date of birth: 3rd March 1996
 ### Email: a.kashkan10@gmail.com
 ### Skype: kashik560
-### Linkedin:[Artyom Kashkan](https://www.linkedin.com/in/artyom-kashkan-591489150/)
+### Linkedin: [Artyom Kashkan](https://www.linkedin.com/in/artyom-kashkan-591489150/)
 ## Skills
-Fundamentals of client-server architecture
-Knowledge of methodologies of software development
-Knowledge of SQL
-Understanding of testing, software development process, project life cycle
-Basics+ of OOP and C#, Golang
-Experience with: 
-Jira
-HTML
-CSS
-Java
-C++
-Unity 3D
-Android SDK
-CMS
-Personal skills
-Good analytical skills 
-Critical thinking
-Increased responsibility
-Patience
-Perseverance
-Attention to detail
-Observation
-Easy to train
-Work well in a team
+- Fundamentals of client-server architecture
+- Knowledge of methodologies of software development
+- Knowledge of SQL
+- Understanding of testing, software development process, project life cycle
+- Basics+ of OOP and C#, Golang
+- Experience with: 
+   - Jira
+   - HTML
+   - CSS
+   - Java
+   - C++
+   - Unity 3D
+   - Android SDK
+   - CMS
+# Personal skills
+- Good analytical skills 
+- Critical thinking
+- Increased responsibility
+- Patience
+- Perseverance
+- Attention to detail
+- Observation
+- Easy to train
+- Work well in a team
 ## English
 Intermediate
 ## Education
