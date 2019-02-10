@@ -1,5 +1,5 @@
 # Artyom Kashkan
-
+                                                                                                               [edit](https://github.com/kashkan10/kashkan10.github.io/edit/master/index.md)
 ### Phone number: +375291583489
 ### Date of birth: 3rd March 1996
 ### Email: a.kashkan10@gmail.com
@@ -47,7 +47,7 @@ During the course I had practice with:
 
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/kashkan10/kashkan10.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the  to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
