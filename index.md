@@ -1,11 +1,11 @@
 # Artyom Kashkan
 
-Phone number: +375291583489
-Date of birth: 3rd March 1996
-Email: a.kashkan10@gmail.com
-Skype: kashik560
-Linkedin:[Artyom Kashkan](https://www.linkedin.com/in/artyom-kashkan-591489150/)
-Skills
+### Phone number: +375291583489
+### Date of birth: 3rd March 1996
+### Email: a.kashkan10@gmail.com
+### Skype: kashik560
+### Linkedin:[Artyom Kashkan](https://www.linkedin.com/in/artyom-kashkan-591489150/)
+## Skills
 Fundamentals of client-server architecture
 Knowledge of methodologies of software development
 Knowledge of SQL
@@ -30,12 +30,12 @@ Attention to detail
 Observation
 Easy to train
 Work well in a team
-English
+## English
 Intermediate
-Education
+## Education
 2013-2017
 Belarusian State University, department of Mechanics and Mathematics, Bachelor’s degree in Web-programming and Internet Technologies.
-Additional Education
+## Additional Education
 August 2017-
 September 2017    
 Software testing in the IT Academy Stormnet
