@@ -51,5 +51,5 @@ During the course I had practice with:
 - Checklists creation
 - Test cases creation
 
-[edit](https://github.com/kashkan10/kashkan10.github.io/edit/master/index.md).
+[edit](https://github.com/kashkan10/kashkan10.github.io/edit/master/index.md)
 
