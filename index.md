@@ -5,8 +5,8 @@
 ### Email: a.kashkan10@gmail.com
 ### Skype: kashik560
 ### Linkedin: [Artyom Kashkan](https://www.linkedin.com/in/artyom-kashkan-591489150/)
-## Skills
-- Fundamentals of client-server architecture
+## Skills|# Personal skills
+- Fundamentals of client-server architecture|- Good analytical skills 
 - Knowledge of methodologies of software development
 - Knowledge of SQL
 - Understanding of testing, software development process, project life cycle
@@ -20,8 +20,7 @@
    - Unity 3D
    - Android SDK
    - CMS
-# Personal skills
-- Good analytical skills 
+
 - Critical thinking
 - Increased responsibility
 - Patience
