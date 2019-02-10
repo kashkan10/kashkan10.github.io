@@ -31,7 +31,7 @@
 - Easy to train
 - Work well in a team
 ## English
-Intermediate
+Intermediate
 ## Education
 2013-2017
 Belarusian State University, department of Mechanics and Mathematics, Bachelor’s degree in Web-programming and Internet Technologies.
