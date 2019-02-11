@@ -45,4 +45,8 @@ Software testing in the IT Academy Stormnet
 
 [edit](https://github.com/kashkan10/kashkan10.github.io/edit/master/index.md)
 
+## Tasks
+
+
+https://github.com/kashkan10/FancyCalc @padawanstask + @Anzhelika Kravchuk
 
