@@ -68,12 +68,9 @@ https://github.com/kashkan10/PadawansTask13
 
 https://www.codewars.com/users/Phoenix10
 
-###Completed tasks
+_Completed tasks
 
-####Basic C# coding
-
+- Basic C# coding
 1, 2, 3, 4, 5, 6, 9, 10, 11, 12, 14, 16, 18
-
-####OOP
-
-####Data Structures
+- OOP
+- Data Structures
