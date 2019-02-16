@@ -70,7 +70,6 @@ https://www.codewars.com/users/Phoenix10
 
 _Completed tasks_
 
-- Basic C# coding
-1, 2, 3, 4, 5, 6, 9, 10, 11, 12, 14, 16, 18
+- Basic C# coding: 1, 2, 3, 4, 5, 6, 9, 10, 11, 12, 14, 16, 18
 - OOP
 - Data Structures
