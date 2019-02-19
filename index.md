@@ -89,5 +89,5 @@ _Completed tasks:_
 Task №8: https://github.com/kashkan10/ConvertAHexStringToRGB_Codewars
 
 Task №13: https://github.com/kashkan10/ManipulateURLParameters_Codewars
-- OOP:
+- OOP: 2
 - Data Structures:
