@@ -76,6 +76,8 @@ https://github.com/kashkan10/PadawansTask12
 
 https://github.com/kashkan10/PadawansTask13
 
+https://github.com/kashkan10/FibonacciNumbersMethod
+
 ## Codewars
 
 https://www.codewars.com/users/Phoenix10
