@@ -92,4 +92,4 @@ Task №8: https://github.com/kashkan10/ConvertAHexStringToRGB_Codewars
 
 Task №13: https://github.com/kashkan10/ManipulateURLParameters_Codewars
 - OOP: 1, 2, 3, 4, 5, 6, 7
-- Data Structures:
+- Data Structures: 1
