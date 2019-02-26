@@ -86,7 +86,7 @@ https://www.codewars.com/users/Phoenix10
 
 _Completed tasks:_
 
-- Basic C# coding: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18
+- Basic C# coding: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19
 
 Task №8: https://github.com/kashkan10/ConvertAHexStringToRGB_Codewars
 
