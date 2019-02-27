@@ -43,6 +43,8 @@ Software testing in the IT Academy Stormnet
 
 Сертификат ["C# Light - Программирование для начинающих"](https://www.udemy.com/certificate/UC-KRVJF4MQ/)
 
+Сертификат ["C# Basics - For Complete Beginners"](https://www.udemy.com/certificate/UC-LJSEBYL3/)
+
 [edit](https://github.com/kashkan10/kashkan10.github.io/edit/master/index.md)
 
 ## Tasks
@@ -79,6 +81,8 @@ https://github.com/kashkan10/PadawansTask13
 https://github.com/kashkan10/PadawansTask15
 
 https://github.com/kashkan10/FibonacciNumbersMethod
+
+https://github.com/kashkan10/TicTacToeGame
 
 ## Codewars
 
