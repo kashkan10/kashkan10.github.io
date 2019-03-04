@@ -86,7 +86,7 @@ https://github.com/kashkan10/TicTacToeGame
 
 ## Codewars
 
-https://www.codewars.com/users/Phoenix10
+[Profile](https://www.codewars.com/users/Phoenix10)
 
 _Completed tasks:_
 
