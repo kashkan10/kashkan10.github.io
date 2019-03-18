@@ -5,7 +5,7 @@
 - Knowledge of methodologies of software development
 - Knowledge of SQL
 - Understanding of testing, software development process, project life cycle
-- Basics+ of OOP and C#, Golang
+- Basics+ of OOP and C#
 - Experience with: 
    - Jira
    - HTML
@@ -15,6 +15,8 @@
    - Unity 3D
    - Android SDK
    - CMS
+   - Golang
+   - Ruby
 
 ## Personal skills
 - Critical thinking
