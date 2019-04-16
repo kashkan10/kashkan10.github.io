@@ -86,6 +86,8 @@ https://github.com/kashkan10/FibonacciNumbersMethod
 
 https://github.com/kashkan10/TicTacToeGame
 
+https://github.com/kashkan10/CustomCollections
+
 ## Codewars
 
 [Profile](https://www.codewars.com/users/Phoenix10)
