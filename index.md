@@ -88,7 +88,7 @@ https://github.com/kashkan10/TicTacToeGame
 
 https://github.com/kashkan10/CustomCollections
 
-https://github.com/kashkan10/CustomXMLParser
+https://github.com/kashkan10/CustomXMLParser, https://github.com/kashkan10/MultithreadedXMLParser
 
 ## Codewars
 
